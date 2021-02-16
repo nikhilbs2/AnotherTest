@@ -5,7 +5,7 @@
 # cross check CI and test
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
